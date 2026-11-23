@@ -2,7 +2,7 @@
 
 ### Version Control, Branching, Collaboration & Change History
 
-**CloudForge Lab | Foundation Series**
+**Foundation Series**
 
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717?logo=github&logoColor=white)
@@ -453,6 +453,4 @@ In Infrastructure as Code environments, Git allows infrastructure definitions to
 
 ---
 
-**CloudForge Lab | Build it. Break it. Automate it. Secure it.**
-
-[⬆ Back to CloudForge Lab](../../README.md)
+[⬆ Back to Lab Index](../../README.md)
