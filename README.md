@@ -134,7 +134,7 @@ flowchart LR
 > The project list below is a suggested hands-on path. Mark each lab complete as its implementation and notes are added to the repository.
 
 
-- [ ] **Lab 01 — Git Fundamentals**: initialize a repo, branches, commits, pull requests, and change history.
+- [✅] **Lab 01 — Git Fundamentals**: initialize a repo, branches, commits, pull requests, and change history.
 - [ ] **Lab 02 — Terraform Fundamentals**: provision a small cloud environment; explore variables, outputs, state, and modules.
 - [ ] **Lab 03 — Terraform Testing**: add native Terraform tests and experiment with test mocks.
 - [ ] **Lab 04 — Infrastructure Drift**: intentionally change a resource and detect configuration drift.
